@@ -1,0 +1,139 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: rabbit_kafka_ufo.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Reallocating 'name_of_file' (item size: 1) to 15 items.
+Database file #1: references.bib
+Warning--string name "[accessed" is undefined
+--line 5 of file references.bib
+I was expecting a `,' or a `}'---line 5 of file references.bib
+ :   note = [accessed 
+ :                    11-12-2020]
+I'm skipping whatever remains of this entry
+Warning--string name "[accessed" is undefined
+--line 12 of file references.bib
+I was expecting a `,' or a `}'---line 12 of file references.bib
+ :   note = [accessed 
+ :                    11-12-2020]
+I'm skipping whatever remains of this entry
+Warning--string name "[accessed" is undefined
+--line 18 of file references.bib
+I was expecting a `,' or a `}'---line 18 of file references.bib
+ :   note = [accessed 
+ :                    11-12-2020]
+I'm skipping whatever remains of this entry
+Warning--string name "[accessed" is undefined
+--line 24 of file references.bib
+I was expecting a `,' or a `}'---line 24 of file references.bib
+ :   note = [accessed 
+ :                    11-12-2020]
+I'm skipping whatever remains of this entry
+Warning--string name "[accessed" is undefined
+--line 30 of file references.bib
+I was expecting a `,' or a `}'---line 30 of file references.bib
+ :   note = [accessed 
+ :                    11-12-2020]
+I'm skipping whatever remains of this entry
+Warning--string name "[accessed" is undefined
+--line 36 of file references.bib
+I was expecting a `,' or a `}'---line 36 of file references.bib
+ :   note = [accessed 
+ :                    11-12-2020]
+I'm skipping whatever remains of this entry
+Warning--string name "[accessed" is undefined
+--line 43 of file references.bib
+I was expecting a `,' or a `}'---line 43 of file references.bib
+ :   note = [accessed 
+ :                    11-12-2020]
+I'm skipping whatever remains of this entry
+Warning--string name "[accessed" is undefined
+--line 50 of file references.bib
+I was expecting a `,' or a `}'---line 50 of file references.bib
+ :   note = [accessed 
+ :                    11-12-2020]
+I'm skipping whatever remains of this entry
+Warning--string name "[accessed" is undefined
+--line 57 of file references.bib
+I was expecting a `,' or a `}'---line 57 of file references.bib
+ :   note = [accessed 
+ :                    11-12-2020]
+I'm skipping whatever remains of this entry
+Warning--string name "[accessed" is undefined
+--line 63 of file references.bib
+I was expecting a `,' or a `}'---line 63 of file references.bib
+ :   note = [accessed 
+ :                    11-12-2020]
+I'm skipping whatever remains of this entry
+Warning--string name "[accessed" is undefined
+--line 69 of file references.bib
+I was expecting a `,' or a `}'---line 69 of file references.bib
+ :   note = [accessed 
+ :                    11-12-2020]
+I'm skipping whatever remains of this entry
+Warning--string name "[accessed" is undefined
+--line 76 of file references.bib
+I was expecting a `,' or a `}'---line 76 of file references.bib
+ :   note = [accessed 
+ :                    11-12-2020]
+I'm skipping whatever remains of this entry
+Warning--string name "[accessed" is undefined
+--line 83 of file references.bib
+I was expecting a `,' or a `}'---line 83 of file references.bib
+ :   note = [accessed 
+ :                    11-12-2020]
+I'm skipping whatever remains of this entry
+Warning--string name "[accessed" is undefined
+--line 90 of file references.bib
+I was expecting a `,' or a `}'---line 90 of file references.bib
+ :   note = [accessed 
+ :                    11-12-2020]
+I'm skipping whatever remains of this entry
+Warning--string name "[accessed" is undefined
+--line 97 of file references.bib
+I was expecting a `,' or a `}'---line 97 of file references.bib
+ :   note = [accessed 
+ :                    11-12-2020]
+I'm skipping whatever remains of this entry
+You've used 15 entries,
+            2118 wiz_defined-function locations,
+            558 strings with 5915 characters,
+and the built_in function-call counts, 3110 in all, are:
+= -- 292
+> -- 105
+< -- 0
++ -- 45
+- -- 30
+* -- 84
+:= -- 528
+add.period$ -- 45
+call.type$ -- 15
+change.case$ -- 60
+chr.to.int$ -- 0
+cite$ -- 15
+duplicate$ -- 105
+empty$ -- 331
+format.name$ -- 30
+if$ -- 683
+int.to.chr$ -- 0
+int.to.str$ -- 15
+missing$ -- 0
+newline$ -- 78
+num.names$ -- 30
+pop$ -- 120
+preamble$ -- 1
+purify$ -- 45
+quote$ -- 0
+skip$ -- 112
+stack$ -- 0
+substring$ -- 75
+swap$ -- 15
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 60
+warning$ -- 0
+while$ -- 30
+width$ -- 17
+write$ -- 144
+(There were 15 error messages)
