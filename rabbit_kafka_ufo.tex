@@ -136,7 +136,7 @@ der opstår en netværksfejl.
 RabbitMQ beholder alle beskederne i en kø, indtil en consumer anerkender
 at de er blevet modtaget og behandlet, hvorefter de slettes. Som
 standard bliver alle beskeder skrevet til RAM'en, og skriver kun til
-disken hvis systemet løber tør for RAM (REF). Dette betyder at RabbitMQ
+disken hvis systemet løber tør for RAM. Dette betyder at RabbitMQ
 ikke tager højde for eventuelle server- eller systemnedbrud.\cite{rabbit-persistence} RabbitMQ giver dog mulighed for at persistere data, ved at deklarere exchange,
 queues og messages til ``durable''.\cite{rabbit-durable} Dette sørger for at alle tre, vil
 være gemt på disken så de kan hentes igen efter en systemfejl. Ved at
