@@ -6,6 +6,7 @@ Vinoth~Chandar Alok~Nikhil.
   fastest?
 \newblock \url{https://www.confluent.io/blog/kafka-fastest-messaging-system/},
   21-08-2020.
+\newblock [Accessed 11-12-2020].
 
 \bibitem{rabbit-exchange-types}
 et~al. Derek~Greer.
@@ -13,11 +14,13 @@ et~al. Derek~Greer.
 \newblock
   \url{https://lostechies.com/derekgreer/2012/03/28/rabbitmq-for-windows-exchange-types},
   28-03-2012.
+\newblock [Accessed 11-12-2020].
 
 \bibitem{message-brokers}
 IBM~Cloud Education.
 \newblock Message brokers.
 \newblock \url{https://www.ibm.com/cloud/learn/message-brokers}, 23-01-2020.
+\newblock [Accessed 11-12-2020].
 
 \bibitem{kafka-routing}
 Lovisa Johansson.
@@ -25,16 +28,19 @@ Lovisa Johansson.
 \newblock
   \url{https://www.cloudkarafka.com/blog/2016-11-30-part1-kafka-for-beginners-what-is-apache-kafka.html},
   19-03-2020.
+\newblock [Accessed 11-12-2020].
 
 \bibitem{kafka-guide}
 Apache Kafka.
 \newblock Apache kafka quickstart.
 \newblock \url{https://kafka.apache.org/quickstart}.
+\newblock [Accessed 11-12-2020].
 
 \bibitem{kafka-protocol}
 Apache Kafka.
 \newblock Kafka protocol guide.
 \newblock \url{http://kafka.apache.org/protocol.html}.
+\newblock [Accessed 11-12-2020].
 
 \bibitem{kafka-connect}
 Liquan Pei.
@@ -42,36 +48,43 @@ Liquan Pei.
 \newblock
   \url{https://www.confluent.io/blog/how-to-build-a-scalable-etl-pipeline-with-kafka-connect/},
   17-12-2015.
+\newblock [Accessed 11-12-2020].
 
 \bibitem{rabbit-persistence}
 RabbitMQ.
 \newblock Persistence configuration.
 \newblock \url{https://www.rabbitmq.com/persistence-conf.html}.
+\newblock [Accessed 11-12-2020].
 
 \bibitem{rabbit-priority-queue}
 RabbitMQ.
 \newblock Priority queue support.
 \newblock \url{https://www.rabbitmq.com/priority.html}.
+\newblock [Accessed 11-12-2020].
 
 \bibitem{rabbit-routing}
 RabbitMQ.
 \newblock Routing.
 \newblock \url{https://www.rabbitmq.com/tutorials/tutorial-four-python.html}.
+\newblock [Accessed 11-12-2020].
 
 \bibitem{rabbit-protocols}
 RabbitMQ.
 \newblock Which protocols does rabbitmq support?
 \newblock \url{https://www.rabbitmq.com/protocols.html}.
+\newblock [Accessed 11-12-2020].
 
 \bibitem{rabbit-durable}
 RabbitMQ.
 \newblock Work queues.
 \newblock \url{https://www.rabbitmq.com/tutorials/tutorial-two-python.html}.
+\newblock [Accessed 11-12-2020].
 
 \bibitem{rabbit-guide}
 RabbitMQ.
 \newblock Rabbitmq tutorials.
 \newblock \url{https://www.rabbitmq.com/getstarted.html}, 11-12-2020.
+\newblock [Accessed 11-12-2020].
 
 \bibitem{kafka-scaling}
 Dan Rosanova.
@@ -79,10 +92,12 @@ Dan Rosanova.
 \newblock
   \url{https://www.confluent.io/blog/scaling-kafka-to-10-gb-per-second-in-confluent-cloud/},
   12-06-2020.
+\newblock [Accessed 11-12-2020].
 
 \bibitem{event-streaming}
 vmware.
 \newblock Event streaming: Build applications that keep up with business.
 \newblock \url{https://tanzu.vmware.com/event-streaming}.
+\newblock [Accessed 11-12-2020].
 
 \end{thebibliography}

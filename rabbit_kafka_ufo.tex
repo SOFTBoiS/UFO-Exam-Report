@@ -83,7 +83,7 @@
 
 \begin{document}
 \maketitle
-
+\textit{When you need to send data between applications or microservices it can be difficult to choose the right technology. Two of these are Kafka and RabbitMQ, but when are they the right match for the job? We will uncover their individual advantages and shortcomings and show benchmarks of which technology is faster. After reading this article you will find out that RabbitMQ seems to be the better general choice, unless you have use cases that specifically fits the areas where Kafka excel.}
 \hypertarget{intro}{%
 \section{Intro}\label{intro}}
 
@@ -145,7 +145,7 @@ grundet hastigheder på disk vs. RAM.
 
 I modsætning til RabbitMQ, persisterer Kafka alle beskeder til en
 logfil, så de altid er tilgængelige. Beskederne kan herefter gemmes
-permanent som en slags database eller alternativt konfigurere en TTL
+permanent som en slags database eller alternativt konfigurere en time to live
 baseret enten på tidsinterval eller log størrelse. Derved kan beskederne
 læses og genlæses efter behov. I Kafka er det consumernes byrde at holde
 styr på, hvilke beskeder der er blevet læst. Dette betyder at hvis der
@@ -285,22 +285,18 @@ forhold til Kafka i vores benchmark} \label{tab:long} \\
 100.000 & 1.432,99 ms & 22.233,50 ms & 15,52x\tabularnewline
 \bottomrule
 \end{longtable}
-
+\pagebreak
 Følgende box plots for de individuelle sammenligninger af Kafka og
 RabbitMQ ved forskellige antal beskeder. Skalaen er i antal
 millisekunder for det sendte antal beskeder.
 
-\includegraphics[width=5in,height=3in]{media/media/image5.png}
 
-\includegraphics[width=5in,height=3in]{media/media/image6.png}
+\includegraphics[width=5.5in,height=3in]{media/media/image1.png}
 
-\includegraphics[width=5in,height=3in]{media/media/image4.png}
+\includegraphics[width=5.5in,height=3in]{media/media/image2.png}
 
-\includegraphics[width=5in,height=3in]{media/media/image2.png}
+\includegraphics[width=5.5in,height=3in]{media/media/image3.png}
 
-\includegraphics[width=5in,height=3in]{media/media/image1.png}
-
-\includegraphics[width=5in,height=3in]{media/media/image3.png}
 
 \hypertarget{fortolkninger-af-datasuxe6ttet.}{%
 \subsection{Fortolkninger af
@@ -331,7 +327,7 @@ Kafka kunne blive testet med partitions for at se om det ville forbedre
 ydeevnen, og med RabbitMQ kunne man teste med persistente
 konfigurationer, for at se om hastighederne ville være tættere på
 Kafkas.
-
+\pagebreak
 \hypertarget{reproducere-benchmarks}{%
 \subsection{Reproducere benchmarks}\label{reproducere-benchmarks}}
 
@@ -374,5 +370,6 @@ har brug for at analysere dataene løbende eller skal streame store
 mængder data, giver det mening at vælge Kafka.\\
 Hvis ikke nogen af de ting gør sig gældende, bør man vælge RabbitMQ, da
 det er mere simpelt, hurtigt og fleksibelt.
+\pagebreak
 \bibliography{references.bib}
 \end{document}
