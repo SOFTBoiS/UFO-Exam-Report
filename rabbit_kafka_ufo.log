@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.19)  15 DEC 2020 14:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.10.19)  15 DEC 2020 14:33
 entering extended mode
 **./rabbit_kafka_ufo.tex
 (rabbit_kafka_ufo.tex
@@ -578,21 +578,21 @@ Overfull \hbox (52.48694pt too wide) in paragraph at lines 298--299
  []
 
 [5 <./media/media/image1.png> <./media/media/image2.png> <./media/media/image3.
-png>] [6]
+png>]
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 338.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 338.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 338.
- (rabbit_kafka_ufo.bbl [7])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 375.
+ [6] (rabbit_kafka_ufo.bbl [7])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 376.
  [8]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 375.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 376.
  (rabbit_kafka_ufo.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 375.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 375.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 375.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 376.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 376.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 376.
  ) 
 Here is how much of TeX's memory you used:
  12850 strings out of 480790
@@ -608,7 +608,7 @@ lm/lmbx12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Prog
 ram Files/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Program Files/MiKTeX/fonts
 /type1/public/lm/lmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/lm/lmri1
 0.pfb>
-Output written on rabbit_kafka_ufo.pdf (8 pages, 227627 bytes).
+Output written on rabbit_kafka_ufo.pdf (8 pages, 228630 bytes).
 PDF statistics:
  236 PDF objects out of 1000 (max. 8388607)
  60 named destinations out of 1000 (max. 500000)
